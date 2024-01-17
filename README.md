@@ -1,5 +1,5 @@
 #Azim Islam/README.md
-<p><img src="/image/azim.jpg" alt="photos"/></p><br/>
+<p><img src="/azim.jpg" alt="photos"/></p><br/>
 👋<h1>Hello, I am Azim Islam</h1><br/>
 <b>I am Web Developer</b>
 <p>Live in Bangladesh<p><br/>
